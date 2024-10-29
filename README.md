@@ -1,3 +1,3 @@
-With the help of this program we convert Farenheit degrees into Celcius degrees  using the following formula  
+With the help of this program we convert Celcius degrees into Farenheit degrees  using the following formula  
 
 F = 9/5* C + 32
